@@ -1,0 +1,8 @@
+- Terminar de pasar todos los tsx (de películas)
+    index, crear, editar y borrar
+- Pasar el login y la lógica auth    
+- Definir qué hacer con el marco del título de los componentes (sacar para gnar espacio?)
+- Agregar nuevos Navbar laterales con los componentes preexistentes del dashboard
+- Arreglar el dashboard original
+
+--> Crear template front definitivo

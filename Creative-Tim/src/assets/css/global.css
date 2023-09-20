@@ -1,0 +1,10 @@
+.hover-effect {
+  transition: all 0.3s ease-in-out;
+}
+
+.hover-effect:hover {
+  background-color: rgba(inherit, 0.1) !important;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) !important;
+  transform: scale(1.03);
+  cursor: pointer;
+}

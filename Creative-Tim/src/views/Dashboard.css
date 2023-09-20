@@ -1,0 +1,10 @@
+.card-stats {
+    /* transition: all 0.3s ease-in-out; */
+}
+
+.card-stats:hover {
+    /* background-color: rgba(0, 0, 0, 0.1) !important;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1) !important;
+    transform: scale(1.02);
+    cursor: pointer; */
+}
